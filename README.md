@@ -90,9 +90,11 @@ I am from an Electronics and Communication background but my interest in technol
 - SOC Home Lab
 
 <div align="center">
-## Feeding...
     
-![Snake animation](https://raw.githubusercontent.com/smileycookie/smileycookie/output/github-contribution-grid-snake-dark.svg)
+## Feeding...
+
+    
+![snake gif](https://github.com/smileycookie/smileycookie/blob/output/github-snake-dark.svg)
 
 <h2 align="center"> Stats </h2>
 
