@@ -31,8 +31,8 @@ I am from an Electronics and Communication background but my interest in technol
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | SOC Home Lab|
-| Network Traffic Monitoring and Attack Detection | SOC Home Lab|
+| SIEM Implementation and Log Analysis          |[ SOC Home Lab](https://github.com/smileycookie/SOC_Home_Lab)|
+| Network Traffic Monitoring and Attack Detection |[ SOC Home Lab](https://github.com/smileycookie/SOC_Home_Lab)|
 
 
 ## Tools
