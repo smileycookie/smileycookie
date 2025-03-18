@@ -91,7 +91,7 @@ I am from an Electronics and Communication background but my interest in technol
 
 <div align="center">
     
-## Feeding...
+## Contributions
 
     
 ![snake gif](https://github.com/smileycookie/smileycookie/blob/output/github-snake-dark.svg)
