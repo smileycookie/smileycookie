@@ -50,7 +50,7 @@ I am from an Electronics and Communication background but my interest in technol
     <img src="https://img.shields.io/badge/-OpenCTI-EF3B2D?&style=for-the-badge&logo=OpenCTI&logoColor=white" />
     <img src="https://img.shields.io/badge/-MISP-777BB4?&style=for-the-badge&logo=MISP&logoColor=white" />
     <img src="https://img.shields.io/badge/-MITRE ATT&CK-b84592?&style=for-the-badge&logo=MITRE ATT&CK®&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Sigma-DBF227?&style=for-the-badge&logo=Sigma®&logoColor=white" />    
+    <img src="https://img.shields.io/badge/-Sigma-DBF227?&style=for-the-badge&logo=Sigma&logoColor=white" />    
 </div>
 
 ### Network Security and Traffic Analysis
